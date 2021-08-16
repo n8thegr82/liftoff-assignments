@@ -20,5 +20,6 @@ https://trello.com/b/7NZNFPVO/new-board-8-2-2021
 Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
 
 ### Project Repo Link
+https://github.com/n8thegr82/liftoff-assignments
 
 Include a link to your project on GitHub.
